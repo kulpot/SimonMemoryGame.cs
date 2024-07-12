@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimonMemoryGame
 {
-    class Colors
+    public enum Colors
     {
     }
 }
