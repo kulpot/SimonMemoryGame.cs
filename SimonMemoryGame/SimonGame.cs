@@ -8,5 +8,6 @@ namespace SimonMemoryGame
 {
     class SimonGame
     {
+        public bool GameOver { get; private set; } = false;
     }
 }
