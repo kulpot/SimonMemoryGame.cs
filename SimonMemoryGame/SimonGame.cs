@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimonMemoryGame
 {
-    internal class SimonGame
+    class SimonGame
     {
     }
 }
