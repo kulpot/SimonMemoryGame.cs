@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimonMemoryGame
 {
-    class SimonGame
+    class Colors
     {
-        public bool GameOver { get; private set; } = false;
-
     }
 }
