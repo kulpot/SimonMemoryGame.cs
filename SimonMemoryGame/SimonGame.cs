@@ -9,6 +9,7 @@ namespace SimonMemoryGame
     class SimonGame
     {
         public bool GameOver { get; private set; } = false;
+        public List<Colors> Colors { get; private set; }
 
     }
 }
