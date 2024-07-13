@@ -18,5 +18,9 @@ namespace SimonMemoryGame
             Colors = new List<Colors>();
         }
 
+        private void generateColor()
+        {
+
+        }
     }
 }
