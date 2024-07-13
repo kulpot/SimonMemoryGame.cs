@@ -13,5 +13,10 @@ namespace SimonMemoryGame
 
         private int guessPosition = 0;
 
+        public SimonGame()
+        {
+
+        }
+
     }
 }
