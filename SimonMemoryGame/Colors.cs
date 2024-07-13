@@ -10,6 +10,7 @@ namespace SimonMemoryGame
     {
         Green,
         Red,
+        Blue,
 
     }
 }
