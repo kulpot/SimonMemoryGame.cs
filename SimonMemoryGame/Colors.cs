@@ -9,5 +9,7 @@ namespace SimonMemoryGame
     public enum Colors
     {
         Green,
+        Red,
+
     }
 }
