@@ -11,6 +11,6 @@ namespace SimonMemoryGame
         Green,
         Red,
         Blue,
-
+        Yellow
     }
 }
