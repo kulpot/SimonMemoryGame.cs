@@ -15,7 +15,7 @@ namespace SimonMemoryGame
 
         public SimonGame()
         {
-
+            Colors = new List<Colors>();
         }
 
     }
