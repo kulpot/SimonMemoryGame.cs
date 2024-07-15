@@ -19,6 +19,11 @@ namespace SimonMemoryGame
             generateColor();
         }
 
+        public bool MakeGuess(Colors color)
+        {
+
+        }
+
         private void generateColor()
         {
             Random ran = new Random();
