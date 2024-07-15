@@ -20,7 +20,7 @@ namespace SimonMemoryGame
 
         private void generateColor()
         {
-
+            Random ran = new Random();
         }
     }
 }
