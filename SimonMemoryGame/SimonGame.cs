@@ -21,7 +21,10 @@ namespace SimonMemoryGame
 
         public bool MakeGuess(Colors color)
         {
+            if (Colors[guessPosition] != color)
+            {
 
+            }
         }
 
         private void generateColor()
