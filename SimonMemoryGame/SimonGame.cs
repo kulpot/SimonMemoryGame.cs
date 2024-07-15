@@ -21,6 +21,7 @@ namespace SimonMemoryGame
         private void generateColor()
         {
             Random ran = new Random();
+            int ranColorAsInt = ran.Next(4);
         }
     }
 }
