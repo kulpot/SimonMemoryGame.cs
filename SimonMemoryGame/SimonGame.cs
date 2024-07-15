@@ -24,6 +24,7 @@ namespace SimonMemoryGame
             if (Colors[guessPosition] != color)
             {
                 GameOver = true;
+                return false;
             }
         }
 
