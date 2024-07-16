@@ -28,7 +28,7 @@ namespace SimonMemoryGame
             }
             else
             {
-                //round over
+                //round over / guess is correct
                 if(guessPosition == Colors.Count - 1)
                 {
                     guessPosition = 0;
