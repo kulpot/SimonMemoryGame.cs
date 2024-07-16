@@ -35,6 +35,7 @@ namespace SimonMemoryGame
                     generateColor();
                     return false;
                 }
+                //guess is correct but round is not over
             }
         }
 
