@@ -32,6 +32,7 @@ namespace SimonMemoryGame
                 if(guessPosition == Colors.Count - 1)
                 {
                     guessPosition = 0;
+                    generateColor();
                 }
             }
         }
