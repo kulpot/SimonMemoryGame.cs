@@ -26,6 +26,10 @@ namespace SimonMemoryGame
                 GameOver = true;
                 return false;
             }
+            else
+            {
+
+            }
         }
 
         private void generateColor()
