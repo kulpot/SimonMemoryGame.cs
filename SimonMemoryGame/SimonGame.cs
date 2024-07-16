@@ -33,6 +33,7 @@ namespace SimonMemoryGame
                 {
                     guessPosition = 0;
                     generateColor();
+                    return false;
                 }
             }
         }
