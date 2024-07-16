@@ -37,6 +37,7 @@ namespace SimonMemoryGame
                 }
                 //guess is correct but round is not over
                 guessPosition++;
+                return true;
             }
         }
 
