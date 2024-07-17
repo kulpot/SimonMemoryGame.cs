@@ -22,7 +22,7 @@ namespace SimonmemoryGame
             Console.Clear();
             foreach(Colors color in game.Colors)
             {
-
+                Console.WriteLine("Round " + game.Colors.Count+": \n");
             }
         }
     }
