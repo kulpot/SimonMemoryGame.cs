@@ -10,6 +10,11 @@ namespace SimonmemoryGame
         static void Main(string[] args)
         {
             SimonGame game = new SimonGame();
+
+            while(!game.GameOver)
+            {
+
+            }
         }
     }
 }
