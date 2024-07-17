@@ -20,6 +20,10 @@ namespace SimonmemoryGame
         private static void displayCurrentRound(SimonGame game)
         {
             Console.Clear();
+            foreach(Colors color in game.Colors)
+            {
+
+            }
         }
     }
 }
