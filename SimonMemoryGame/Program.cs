@@ -23,6 +23,8 @@ namespace SimonmemoryGame
             foreach(Colors color in game.Colors)
             {
                 Console.WriteLine("Round " + game.Colors.Count+": \n"); //Round 1
+
+                System.Threading.Thread.Sleep(1000);    // 1sec delay
             }
         }
     }
