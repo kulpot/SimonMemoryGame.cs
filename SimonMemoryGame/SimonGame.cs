@@ -33,11 +33,11 @@ namespace SimonMemoryGame
                 {
                     guessPosition = 0;
                     generateColor();
-                    return false;
+                    return false;   //means last guess of the round or loss
                 }
                 //guess is correct but round is not over
                 guessPosition++;
-                return true;
+                return true;    //means rounds not over keep on guessing
             }
         }
 
