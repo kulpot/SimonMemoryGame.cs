@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SimonMemoryGame;
+using System;
 
 //UI Building
 
@@ -8,7 +9,7 @@ namespace SimonmemoryGame
     {
         static void Main(string[] args)
         {
-
+            SimonGame game = new SimonGame();
         }
     }
 }
