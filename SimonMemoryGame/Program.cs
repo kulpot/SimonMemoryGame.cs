@@ -16,5 +16,10 @@ namespace SimonmemoryGame
 
             }
         }
+
+        private static void displayCurrentRound(SimonGame game)
+        {
+
+        }
     }
 }
