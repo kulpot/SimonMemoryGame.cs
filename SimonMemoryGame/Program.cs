@@ -26,7 +26,7 @@ namespace SimonmemoryGame
 
                 System.Threading.Thread.Sleep(1000);    // 1sec delay
 
-                switch(color)
+                switch (color)
                 {
                     case Colors.Green:
                         Console.ForegroundColor = ConsoleColor.Green;
@@ -41,8 +41,10 @@ namespace SimonmemoryGame
                         Console.ForegroundColor = ConsoleColor.Yellow;
                         break;
                 }
+                Console.WriteLine(color);
 
-                Console.WriteLine(color); 
+                System.Threading.Thread.Sleep(1000);    // 1sec delay
+
             }
         }
     }
