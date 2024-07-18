@@ -27,6 +27,10 @@ namespace SimonmemoryGame
                 System.Threading.Thread.Sleep(1000);    // 1sec delay
 
                 switch(color)
+                {
+                    case Colors.Green:
+                        break;
+                }
 
                 Console.WriteLine(color); 
             }
