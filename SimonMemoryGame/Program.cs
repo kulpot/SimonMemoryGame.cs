@@ -26,7 +26,9 @@ namespace SimonmemoryGame
 
                 System.Threading.Thread.Sleep(1000);    // 1sec delay
 
-                Console.WriteLine(color);
+                switch(color)
+
+                Console.WriteLine(color); 
             }
         }
     }
