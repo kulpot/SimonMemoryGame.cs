@@ -34,7 +34,8 @@ namespace SimonmemoryGame
                         break;
                     case Colors.Blue:
                         break;
-
+                    case Colors.Yellow:
+                        break;
                 }
 
                 Console.WriteLine(color); 
