@@ -38,6 +38,7 @@ namespace SimonmemoryGame
                         Console.ForegroundColor = ConsoleColor.Blue;
                         break;
                     case Colors.Yellow:
+                        Console.ForegroundColor = ConsoleColor.Yellow;
                         break;
                 }
 
