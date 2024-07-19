@@ -13,7 +13,7 @@ namespace SimonmemoryGame
 
             while(!game.GameOver)
             {
-
+                displayCurrentRound(game);
             }
         }
 
