@@ -11,13 +11,13 @@ namespace SimonmemoryGame
         {
             SimonGame game = new SimonGame();
 
-            while(!game.GameOver) // responsible for the game going
+            while(!game.GameOver) // Game Loop - responsible for the game going
             {
                 displayCurrentRound(game);
 
-                do
+                do              // Round Loop 
                 {
-
+                    Console.WriteLine("Enter color: ");
                 }
             }
         }
