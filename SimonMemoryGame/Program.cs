@@ -48,7 +48,7 @@ namespace SimonmemoryGame
                 Console.Clear();
                 Console.ResetColor();   // for Console.ForegroundColor not changing
             }
-            Console.WriteLine("Round " + game.Colors.Count + ": \n"); 
+            Console.WriteLine("Round " + game.Colors.Count + ": \n"); // Round Count = next round
 
 
         }
