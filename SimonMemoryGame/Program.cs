@@ -22,7 +22,7 @@ namespace SimonmemoryGame
             Console.Clear();
             foreach(Colors color in game.Colors)
             {
-                Console.WriteLine("Round " + game.Colors.Count+": \n"); //Round 1
+                Console.WriteLine("Round " + game.Colors.Count+": \n"); // Round Count = Round 1
 
                 System.Threading.Thread.Sleep(1000);    // 1sec delay
 
@@ -48,6 +48,9 @@ namespace SimonmemoryGame
                 Console.Clear();
                 Console.ResetColor();   // for Console.ForegroundColor not changing
             }
+            Console.WriteLine("Round " + game.Colors.Count + ": \n"); //Round 
+
+
         }
     }
 }
