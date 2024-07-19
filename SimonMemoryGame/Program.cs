@@ -46,7 +46,7 @@ namespace SimonmemoryGame
                 System.Threading.Thread.Sleep(1000);    // 1sec delay
 
                 Console.Clear();
-                Console.ResetColor();
+                Console.ResetColor();   // for Console.ForegroundColor not changing
             }
         }
     }
