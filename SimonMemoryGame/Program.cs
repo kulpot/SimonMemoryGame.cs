@@ -11,7 +11,7 @@ namespace SimonmemoryGame
         {
             SimonGame game = new SimonGame();
 
-            while(!game.GameOver)
+            while(!game.GameOver) // responsible for the game going
             {
                 displayCurrentRound(game);
 
