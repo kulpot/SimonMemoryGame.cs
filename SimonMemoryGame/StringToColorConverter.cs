@@ -10,7 +10,7 @@ namespace SimonMemoryGame
     {
         public static Colors Convert(string color)
         {
-            switch(color.ToLower())
+            switch(color.ToLower()) // convert uppercase color to lower
             {
 
             }
