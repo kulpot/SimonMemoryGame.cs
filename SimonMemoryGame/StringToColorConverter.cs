@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SimonMemoryGame
 {
-    class StringToColorConverter
+    public static class StringToColorConverter
     {
+
     }
 }
