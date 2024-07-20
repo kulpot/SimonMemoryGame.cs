@@ -8,6 +8,9 @@ namespace SimonMemoryGame
 {
     public static class StringToColorConverter
     {
+        public static Colors Convert(string color)
+        {
 
+        }
     }
 }
