@@ -12,7 +12,8 @@ namespace SimonMemoryGame
         {
             switch(color.ToLower()) // convert uppercase color to lower
             {
-
+                case "yellow":
+                    break;
             }
         }
     }
