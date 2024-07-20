@@ -18,7 +18,7 @@ namespace SimonmemoryGame
                 do              // Round Loop 
                 {
                     Console.WriteLine("Enter color: ");
-                    string colorAsString = Console.ReadLine();
+                    string colorAsString = Console.ReadLine();  // need to convert string to color - solution: make static class
 
                 }
             }
