@@ -18,6 +18,8 @@ namespace SimonmemoryGame
                 do              // Round Loop 
                 {
                     Console.WriteLine("Enter color: ");
+                    string colorAsString = Console.ReadLine();
+
                 }
             }
         }
