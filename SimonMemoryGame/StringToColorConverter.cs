@@ -18,6 +18,8 @@ namespace SimonMemoryGame
                     break;
                 case "green":
                     break;
+                case "red":
+                    break;
 
             }
         }
