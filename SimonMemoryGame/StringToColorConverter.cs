@@ -14,6 +14,8 @@ namespace SimonMemoryGame
             {
                 case "yellow":
                     break;
+                case "blue":
+                    break;
             }
         }
     }
