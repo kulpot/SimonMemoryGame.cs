@@ -20,6 +20,8 @@ namespace SimonMemoryGame
                     return Colors.Green;
                 case "red":
                     return Colors.Red;
+                default:
+
             }
         }
     }
