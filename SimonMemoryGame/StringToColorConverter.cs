@@ -16,6 +16,9 @@ namespace SimonMemoryGame
                     break;
                 case "blue":
                     break;
+                case "green":
+                    break;
+
             }
         }
     }
