@@ -15,7 +15,7 @@ namespace SimonMemoryGame
                 case "yellow":
                     return Colors.Yellow;
                 case "blue":
-                    break;
+                    return Colors.Blue;
                 case "green":
                     break;
                 case "red":
