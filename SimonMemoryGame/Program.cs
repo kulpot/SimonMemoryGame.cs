@@ -1,5 +1,6 @@
 ﻿using SimonMemoryGame;
 using System;
+using System.Drawing;
 
 //UI Building
 
@@ -21,8 +22,8 @@ namespace SimonmemoryGame
                     string colorAsString = Console.ReadLine();  // need to convert string to color - solution: make static class name StringToColorConverter.cs
                     Colors color = StringToColorConverter.Convert(colorAsString);
 
-                    game.MakeGuess(color);
-                }
+                    //game.MakeGuess(color);
+                } while (game.MakeGuess(color));
             }
         }
 
