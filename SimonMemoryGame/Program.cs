@@ -14,7 +14,7 @@ namespace SimonmemoryGame
 
             while(!game.GameOver) // Game Loop - responsible for the game going
             {
-                displayCurrentRound(game);
+                displayCurrentRound(game); 
                 Colors color;
                 do              // Round Loop 
                 {
