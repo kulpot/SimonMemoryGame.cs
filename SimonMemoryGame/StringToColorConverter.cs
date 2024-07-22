@@ -21,7 +21,7 @@ namespace SimonMemoryGame
                 case "red":
                     return Colors.Red;
                 default:
-                    return Colors.Unknown;
+                    return Colors.Unknown;  // add to Color enumeration, Colors.cs
             }
         }
     }
