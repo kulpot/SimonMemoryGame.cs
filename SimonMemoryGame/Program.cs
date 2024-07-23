@@ -26,6 +26,8 @@ namespace SimonmemoryGame
                     //game.MakeGuess(color);
                 } while (game.MakeGuess(color));
             }
+
+            Console.WriteLine("Game over");
         }
 
         private static void displayCurrentRound(SimonGame game)
