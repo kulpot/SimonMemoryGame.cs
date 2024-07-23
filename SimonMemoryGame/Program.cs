@@ -24,10 +24,10 @@ namespace SimonmemoryGame
                     color = StringToColorConverter.Convert(colorAsString);
 
                     //game.MakeGuess(color);
-                } while (game.MakeGuess(color));
+                } while (game.MakeGuess(color));    // false
             }
 
-            Console.WriteLine("Game over");
+            Console.WriteLine("Game over");     
         }
 
         private static void displayCurrentRound(SimonGame game)
