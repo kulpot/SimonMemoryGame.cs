@@ -2,7 +2,7 @@
 using System;
 using System.Drawing;
 
-//UI Building         
+//UI Building          
 
 namespace SimonmemoryGame
 {
