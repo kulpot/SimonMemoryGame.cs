@@ -1,5 +1,5 @@
 ﻿using SimonMemoryGame;                
-using System;      
+using System;       
 using System.Drawing;
 
 //UI Building             
