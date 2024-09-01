@@ -52,4 +52,4 @@ namespace SimonMemoryGame
             Colors.Add(ranColor);
         }
     }
-}        
+}         
