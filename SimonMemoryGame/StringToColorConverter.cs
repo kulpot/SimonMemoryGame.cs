@@ -24,5 +24,5 @@ namespace SimonMemoryGame
                     return Colors.Unknown;  // add to Color enumeration, Colors.cs
             }
         }
-    }
+    } 
 }                
