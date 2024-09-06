@@ -23,6 +23,6 @@ namespace SimonMemoryGame
                 default:
                     return Colors.Unknown;  // add to Color enumeration, Colors.cs
             }
-        }      
+        }       
     }      
 }                
