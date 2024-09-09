@@ -14,4 +14,4 @@ namespace SimonMemoryGame
         Yellow,
         Unknown
     }
-}      
+}       
